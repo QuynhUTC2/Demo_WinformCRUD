@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Demo_WinformCRUD\Demo_WinformCRUD\bin\Debug\Demo_WinformCRUD.exe.config
+C:\Users\HP\source\repos\Demo_WinformCRUD\Demo_WinformCRUD\bin\Debug\Demo_WinformCRUD.exe
+C:\Users\HP\source\repos\Demo_WinformCRUD\Demo_WinformCRUD\bin\Debug\Demo_WinformCRUD.pdb
+C:\Users\HP\source\repos\Demo_WinformCRUD\Demo_WinformCRUD\obj\Debug\Demo_WinformCRUD.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Demo_WinformCRUD\Demo_WinformCRUD\obj\Debug\Demo_WinformCRUD.Form1.resources
+C:\Users\HP\source\repos\Demo_WinformCRUD\Demo_WinformCRUD\obj\Debug\Demo_WinformCRUD.Properties.Resources.resources
+C:\Users\HP\source\repos\Demo_WinformCRUD\Demo_WinformCRUD\obj\Debug\Demo_WinformCRUD.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Demo_WinformCRUD\Demo_WinformCRUD\obj\Debug\Demo_WinformCRUD.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Demo_WinformCRUD\Demo_WinformCRUD\obj\Debug\Demo_WinformCRUD.exe
+C:\Users\HP\source\repos\Demo_WinformCRUD\Demo_WinformCRUD\obj\Debug\Demo_WinformCRUD.pdb
